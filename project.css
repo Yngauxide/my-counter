@@ -46,14 +46,16 @@ button:hover {
 }
 
 #increment-btn {
-    background: #325e34;
+     color:rgb(3, 33, 44) ;
     border-radius: 20px;
+  background-color:   rgb(21, 189, 255);
     
 }
 
 #save-btn {
-    background: 001514;
+    color: rgb(21, 189, 255);
     border-radius: 20px;
+    background-color:rgb(3, 33, 44) ;
 }
 
 #save-el{
